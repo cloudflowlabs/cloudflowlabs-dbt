@@ -1,4 +1,14 @@
-Welcome to your new dbt project!
+Welcome to cloudflowlabs dbt project! This repository is used in CloudFlow Lab's multipart series: [DBT for Data Engineering: A Beginner's Guide ](https://www.youtube.com/watch?v=5B4FhKVEvYg)
+
+### Prerequisites
+
+- Access to a terminal or command prompt.
+- Have Python installed on your machine. You can check if Python is installed by running `python --version` or `python3 --version` in your terminal or command prompt.
+- Have pip installed. You can check if pip is installed by running `pip --version` or `pip3 --version`.
+- Have the necessary permissions to create directories and install packages on your machine.
+- Clone this repository locally
+- Once you've met the prerequisites, follow the steps [in Part 1](https://www.youtube.com/watch?v=5B4FhKVEvYg&list=PLrVIpYK81ITHalkgmzGJzMGexY56xfnPO) to set up your virtual environment.
+
 
 ### Using the starter project
 
