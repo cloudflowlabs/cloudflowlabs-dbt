@@ -1,4 +1,4 @@
-Welcome to cloudflowlabs dbt project! This repository is used in CloudFlow Lab's multipart series: [DBT for Data Engineering: A Beginner's Guide ](https://www.youtube.com/watch?v=5B4FhKVEvYg)
+Welcome to cloudflowlabs dbt project! This repository is used in CloudFlow Lab's multi-part series: [DBT for Data Engineering: A Beginner's Guide ](https://www.youtube.com/watch?v=5B4FhKVEvYg)
 
 ### Prerequisites
 

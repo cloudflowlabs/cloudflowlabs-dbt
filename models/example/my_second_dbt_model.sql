@@ -1,3 +1,6 @@
+/*
+    Welcome to your second dbt model!
+*/
 
 -- Use the `ref` function to select from other models
 
